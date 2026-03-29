@@ -1,0 +1,1 @@
+from .aritmetica_avanzada import potencia, raiz
