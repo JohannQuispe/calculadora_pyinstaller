@@ -1,0 +1,1 @@
+from .aritmetica_basica import suma, resta, multiplicacion, division
